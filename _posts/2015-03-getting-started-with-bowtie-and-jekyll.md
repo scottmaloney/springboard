@@ -263,7 +263,7 @@ $ git commit -a -m "Adds Post on Lack of Sleep"
 
 ## Pushing Changes
 
-Once you've made your local chnages and you're ready to see those changes on the
+Once you've made your local changes and you're ready to see those changes on the
 BowTie site, you just need to push those changes to BowTie:
 
 ```bash
@@ -323,8 +323,8 @@ $ git push origin staging
 ...
 ```
 
-Once our changes have been reviewed - generally by someone who's not you, but in any case,
-it's always good to make a sanity check, we're ready to push to production:
+Once our changes have been reviewed - generally by someone who's not you,
+it's always good to make a sanity check - we're ready to push to production:
 
 ```bash
 $ git checkout production
